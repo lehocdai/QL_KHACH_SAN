@@ -20,7 +20,7 @@ namespace WindowsFormsApp1
         //private DataTable table;
         private int image = 1;
         private string str = System.Configuration.ConfigurationSettings.AppSettings["Main.ConnectionString"];
-        public TrangChu()
+        public TrangChu()  // Trang chu
         {
 
             InitializeComponent();
